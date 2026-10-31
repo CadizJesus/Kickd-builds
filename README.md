@@ -1,2 +1,3 @@
-# Kickd-builds
-Builds de Kickd
+# Kickd - builds
+
+Releases del juego (sin codigo).
